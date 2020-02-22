@@ -76,6 +76,7 @@
 	"efringen-kirchen" : "https://map.freifunk-3laendereck.net/api/community.php?city=Efringen-Kirchen&country=DE&community=loe",
 	"eggebek" : "http://api.ffslfl.net/eggebek-api.json",
 	"eggerbach" : "https://wiki.freifunk.net/images/9/9f/FreifunkEggerbach-api.json",
+	"eichstätt" : "https://pokekirblabs.co/pix/PokeKirbLabs-api.json",
 	"einbeck" : "http://vpn1.freifunk-einbeck.de/FreifunkEinbeck-api.json",
 	"ellefeld" : "https://mapdata.freifunk-vogtland.net/ffapi-ELL.json",
 	"eltville" : "https://www.freifunk-rtk.de/ffapi_rtk.json",
